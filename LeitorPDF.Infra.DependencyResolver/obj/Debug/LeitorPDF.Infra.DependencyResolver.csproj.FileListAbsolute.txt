@@ -1,0 +1,7 @@
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.DependencyResolver\bin\Debug\LeitorPDF.Infra.DependencyResolver.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.DependencyResolver\bin\Debug\LeitorPDF.Infra.DependencyResolver.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.DependencyResolver\bin\Debug\Ninject.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.DependencyResolver\bin\Debug\Ninject.xml
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.DependencyResolver\obj\Debug\LeitorPDF.Infra.DependencyResolver.csprojResolveAssemblyReference.cache
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.DependencyResolver\obj\Debug\LeitorPDF.Infra.DependencyResolver.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.DependencyResolver\obj\Debug\LeitorPDF.Infra.DependencyResolver.pdb

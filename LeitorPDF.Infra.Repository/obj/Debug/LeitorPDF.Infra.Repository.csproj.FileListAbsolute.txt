@@ -1,0 +1,7 @@
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Repository\bin\Debug\LeitorPDF.Infra.Repository.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Repository\bin\Debug\LeitorPDF.Infra.Repository.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Repository\bin\Debug\Dapper.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Repository\bin\Debug\Dapper.xml
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Repository\obj\Debug\LeitorPDF.Infra.Repository.csprojResolveAssemblyReference.cache
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Repository\obj\Debug\LeitorPDF.Infra.Repository.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Repository\obj\Debug\LeitorPDF.Infra.Repository.pdb

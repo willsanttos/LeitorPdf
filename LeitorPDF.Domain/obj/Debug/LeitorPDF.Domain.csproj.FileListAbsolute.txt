@@ -1,0 +1,5 @@
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Domain\bin\Debug\LeitorPDF.Domain.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Domain\bin\Debug\LeitorPDF.Domain.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Domain\obj\Debug\LeitorPDF.Domain.csprojResolveAssemblyReference.cache
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Domain\obj\Debug\LeitorPDF.Domain.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Domain\obj\Debug\LeitorPDF.Domain.pdb

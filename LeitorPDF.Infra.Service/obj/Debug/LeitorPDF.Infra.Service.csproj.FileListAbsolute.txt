@@ -1,0 +1,4 @@
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Service\bin\Debug\LeitorPDF.Infra.Service.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Service\bin\Debug\LeitorPDF.Infra.Service.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Service\obj\Debug\LeitorPDF.Infra.Service.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Service\obj\Debug\LeitorPDF.Infra.Service.pdb

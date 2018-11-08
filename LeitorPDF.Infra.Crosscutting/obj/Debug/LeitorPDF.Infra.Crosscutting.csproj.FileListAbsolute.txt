@@ -1,0 +1,5 @@
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Crosscutting\bin\Debug\LeitorPDF.Infra.Crosscutting.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Crosscutting\bin\Debug\LeitorPDF.Infra.Crosscutting.pdb
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Crosscutting\obj\Debug\LeitorPDF.Infra.Crosscutting.csprojResolveAssemblyReference.cache
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Crosscutting\obj\Debug\LeitorPDF.Infra.Crosscutting.dll
+c:\users\william.santos\documents\visual studio 2015\Projects\LeitorPDF\LeitorPDF.Infra.Crosscutting\obj\Debug\LeitorPDF.Infra.Crosscutting.pdb

@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{C1211833-D398-448D-BA08-300FC82B6598}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{79367859-7584-4A68-98A0-69BDD8AD6C51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface", "Interface", "{5A24B8B3-1288-4554-B673-1BCBC784F796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeitorPDF.Domain", "LeitorPDF.Domain\LeitorPDF.Domain.csproj", "{7290A40F-7556-4A83-A1BC-BE1DF55742F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeitorPDF.Infra.Crosscutting", "LeitorPDF.Infra.Crosscutting\LeitorPDF.Infra.Crosscutting.csproj", "{5FFDF8F4-29BD-46D0-ADDF-3D44CDF2D84B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeitorPDF.Infra.DependencyResolver", "LeitorPDF.Infra.DependencyResolver\LeitorPDF.Infra.DependencyResolver.csproj", "{A614F3D8-BD8B-44F0-9240-848C255079DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeitorPDF.Infra.Repository", "LeitorPDF.Infra.Repository\LeitorPDF.Infra.Repository.csproj", "{10AA44E0-57D5-431F-A9C4-4721719E3457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeitorPDF.Infra.Service", "LeitorPDF.Infra.Service\LeitorPDF.Infra.Service.csproj", "{F0F8C191-DC25-4B7B-B1BD-DDB6A7BC82B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeitorPDFService", "LeitorPDFService\LeitorPDFService.csproj", "{DF6BA233-274B-4B1D-9A0F-00AEDFB284C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7290A40F-7556-4A83-A1BC-BE1DF55742F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7290A40F-7556-4A83-A1BC-BE1DF55742F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7290A40F-7556-4A83-A1BC-BE1DF55742F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7290A40F-7556-4A83-A1BC-BE1DF55742F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFDF8F4-29BD-46D0-ADDF-3D44CDF2D84B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFDF8F4-29BD-46D0-ADDF-3D44CDF2D84B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFDF8F4-29BD-46D0-ADDF-3D44CDF2D84B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFDF8F4-29BD-46D0-ADDF-3D44CDF2D84B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A614F3D8-BD8B-44F0-9240-848C255079DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A614F3D8-BD8B-44F0-9240-848C255079DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A614F3D8-BD8B-44F0-9240-848C255079DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A614F3D8-BD8B-44F0-9240-848C255079DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10AA44E0-57D5-431F-A9C4-4721719E3457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10AA44E0-57D5-431F-A9C4-4721719E3457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10AA44E0-57D5-431F-A9C4-4721719E3457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10AA44E0-57D5-431F-A9C4-4721719E3457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F8C191-DC25-4B7B-B1BD-DDB6A7BC82B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F8C191-DC25-4B7B-B1BD-DDB6A7BC82B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F8C191-DC25-4B7B-B1BD-DDB6A7BC82B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F8C191-DC25-4B7B-B1BD-DDB6A7BC82B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF6BA233-274B-4B1D-9A0F-00AEDFB284C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6BA233-274B-4B1D-9A0F-00AEDFB284C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6BA233-274B-4B1D-9A0F-00AEDFB284C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6BA233-274B-4B1D-9A0F-00AEDFB284C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7290A40F-7556-4A83-A1BC-BE1DF55742F3} = {C1211833-D398-448D-BA08-300FC82B6598}
+		{5FFDF8F4-29BD-46D0-ADDF-3D44CDF2D84B} = {79367859-7584-4A68-98A0-69BDD8AD6C51}
+		{A614F3D8-BD8B-44F0-9240-848C255079DC} = {79367859-7584-4A68-98A0-69BDD8AD6C51}
+		{10AA44E0-57D5-431F-A9C4-4721719E3457} = {79367859-7584-4A68-98A0-69BDD8AD6C51}
+		{F0F8C191-DC25-4B7B-B1BD-DDB6A7BC82B1} = {79367859-7584-4A68-98A0-69BDD8AD6C51}
+		{DF6BA233-274B-4B1D-9A0F-00AEDFB284C8} = {5A24B8B3-1288-4554-B673-1BCBC784F796}
+	EndGlobalSection
+EndGlobal
